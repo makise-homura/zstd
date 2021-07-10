@@ -12,6 +12,7 @@ branches:
   - release
   - master
   - travisTest
+  - mcst-lcc-support-for-travis
 
 addons:
   apt:
